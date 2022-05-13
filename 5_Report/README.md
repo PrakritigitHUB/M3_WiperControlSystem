@@ -23,6 +23,7 @@
 * The Rain Sensor reduced the driver’s burden by making driving more comfortable. 
 * Trailing a wet car is no longer a nuisance as detection of even 0.005 milliliters of water is possible.
 
+
 ## COMPONENTS AND SUPPLIES:
 * STM32F407 Discovery Board
 * Push Button
@@ -66,7 +67,7 @@ In general, car wipers are controlled by the stalk on the right side of the stee
 * High Transaction Cost
 * No Focus on Private Sector
 * Week Focus on Process Innovations
-## OPPRONUTIES
+## OPPORTUNITIES
 * Emerging New Markets
 * Technological Development
 * Demand for Saver Equipments
@@ -88,8 +89,19 @@ Note : As this microcontroller has many advanced features and the main aim of th
 Please find the STM32F4 Discovery User Manual,STM32F4xxx Reference Manual (RM0090) and other related documents inside a folder called Documents. I will be referring to these documents for information such as block diagrams, register details ect.
 
 ## HIGH LEVEL REQUIREMENTS
+|ID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|HLRQ1|Car wiper using STM32F407VG|IMPLEMENTED|
+|HLRQ2|Led glowing in sequence|IMPLEMENTED|
+|HLRQ3|Car on and off|IMPLEMENTED|
+|HLRQ4|Code Analysis|IMPLEMENTED|
+|HLRQ5|Code Documentation|IMPLEMENTED|
 
 ## LOW LEVEL REQUIREMENTS
+|ID|DESCRIPTION|STATUS|
+|:--|:----------|:-----|
+|LLRQ1|Push Button|IMPLEMENTED|
+|LLRQ2|Red,Green,Blue Leds|IMPLEMENTED|
 
 
 
