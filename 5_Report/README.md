@@ -1,27 +1,28 @@
 ## INTRODUCTION
-* Wiper is an essential component that is used to wipe raindrops or any water from the windscreen. 
-* Wipers are designed and made to clear the water from a windscreen. Most cars have two wipers on the windscreen, one on the rear window and the other on each headlight. * 
-* The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots. 
-* The wiper itself has about six parts called pressure points or claws that are small arms under the wiper.
-* The existing system uses a control stalk to activate the wiper and the process of pulling up the wiper is difficult.
-* It needs to switch on and off the control stalk and it will reduce the driver’s concentration during the driving. 
-* Thus, this system is proposed to solve all these problems. 
-* The concept of this wiper system is similar to other conventional wipers, yet this system will be upgraded to an automatic control system by using a controller.
-* When water hits a dedicated sensor located on the windscreen, it triggers the wiper motor to move. 
-* It is not detected by sensor, the wiper will automatically stop. 
-* This will help the driver to give more concentration and reduce the car accident probability.
-* In this project, there were two innovations reviewed as the literature review.
-* The two were designed with different concepts and operating mechanism however with same objective of working principle of the car wiper. 
-* The rain sensor was a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or even mud. 
-* It worked by reflecting harmonious light beams within the windscreen. 
-* When raindrops fall onto the windscreen, this harmony light is disturbed and creating a drop in the light beam intensity. 
-* The system then activated the wipers to be operated in full automatic mode. 
-* It has a response time of 0.1 seconds. It allowed for a quick reaction when it is a sudden splashes of water that will make the driver totally ‘blinds’ when the situation happened. 
-* With the automatic wiper, the driver can avert the risk of an accident. 
-* The automatic wiper is important during heavy traffic, e.g. in town, city, school zone and other public places. 
-* A driver may be subjected to many distractions with bad weather, dangerous road conditions and fatigue. 
-* The Rain Sensor reduced the driver’s burden by making driving more comfortable. 
-* Trailing a wet car is no longer a nuisance as detection of even 0.005 milliliters of water is possible.
+ Wiper is an essential component that is used to wipe raindrops or any water from the windscreen. Wipers are designed and made to clear the water from a windscreen. Most     cars have two wipers on the windscreen, one on the rear window and the other on each headlight.  
+ The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots. 
+ The wiper itself has about six parts called pressure points or claws that are small arms under the wiper.
+
+ The existing system uses a control stalk to activate the wiper and the process of pulling up the wiper is difficult.
+ It needs to switch on and off the control stalk and it will reduce the driver’s concentration during the driving. 
+ Thus, this system is proposed to solve all these problems. 
+ The concept of this wiper system is similar to other conventional wipers, yet this system will be upgraded to an automatic control system by using a controller.
+ When water hits a dedicated sensor located on the windscreen, it triggers the wiper motor to move. 
+ It is not detected by sensor, the wiper will automatically stop. 
+ This will help the driver to give more concentration and reduce the car accident probability.
+ In this project, there were two innovations reviewed as the literature review.
+ The two were designed with different concepts and operating mechanism however with same objective of working principle of the car wiper. 
+ 
+ The rain sensor was a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or even mud. 
+ It worked by reflecting harmonious light beams within the windscreen. 
+ When raindrops fall onto the windscreen, this harmony light is disturbed and creating a drop in the light beam intensity. 
+ The system then activated the wipers to be operated in full automatic mode. 
+ It has a response time of 0.1 seconds. It allowed for a quick reaction when it is a sudden splashes of water that will make the driver totally ‘blinds’ when the situation happened. 
+ With the automatic wiper, the driver can avert the risk of an accident. 
+ The automatic wiper is important during heavy traffic, e.g. in town, city, school zone and other public places. 
+ A driver may be subjected to many distractions with bad weather, dangerous road conditions and fatigue. 
+ The Rain Sensor reduced the driver’s burden by making driving more comfortable. 
+ Trailing a wet car is no longer a nuisance as detection of even 0.005 milliliters of water is possible.
 
 
 ## COMPONENTS AND SUPPLIES:
@@ -121,10 +122,18 @@ STM32F407 BOARD
 ## OUTPUT IMAGES
 ### user button and hold it for two seconds, ENGINE ON STATE
 
+![alt text](https://github.com/PrakritigitHUB/M3_WiperControlSystem/blob/main/6_Output/ENGINE%20ON.png)
 
 ### WIPER SPEED LOW 
+
+![alt text](https://github.com/PrakritigitHUB/M3_WiperControlSystem/blob/main/6_Output/WIND%20SPEED%20LOW.png)
+
 ### WIPER SPEED MEDIUM
+
+![alt text](https://github.com/PrakritigitHUB/M3_WiperControlSystem/blob/main/6_Output/WIND%20SPEED%20MED.png)
 ### WIPER SPEED IS HIGH
 
+![alt text](https://github.com/PrakritigitHUB/M3_WiperControlSystem/blob/main/6_Output/WIND%20SPEED%20HIGH.png)
 
 ### user button is pressed and held for 2 seconds, Engine off state
+![alt text](https://github.com/PrakritigitHUB/M3_WiperControlSystem/blob/main/6_Output/ENGINE%20OFF.png)
