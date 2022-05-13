@@ -1,19 +1,17 @@
 ## INTRODUCTION
- Wiper is an essential component that is used to wipe raindrops or any water from the windscreen. Wipers are designed and made to clear the water from a windscreen. Most     cars have two wipers on the windscreen, one on the rear window and the other on each headlight.  
+ Wipers are designed and made to clear the water from a windscreen. Most cars have two wipers on the windscreen, one on the rear window and the other on each headlight.  
  The wiper parts visible from outside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots. 
  The wiper itself has about six parts called pressure points or claws that are small arms under the wiper.
 
- The existing system uses a control stalk to activate the wiper and the process of pulling up the wiper is difficult.
+ The existing system uses a control stalk to activate the wiper and the process of pulling up the wiper,which  is difficult.
  It needs to switch on and off the control stalk and it will reduce the driver’s concentration during the driving. 
  Thus, this system is proposed to solve all these problems. 
  The concept of this wiper system is similar to other conventional wipers, yet this system will be upgraded to an automatic control system by using a controller.
  When water hits a dedicated sensor located on the windscreen, it triggers the wiper motor to move. 
  It is not detected by sensor, the wiper will automatically stop. 
  This will help the driver to give more concentration and reduce the car accident probability.
- In this project, there were two innovations reviewed as the literature review.
- The two were designed with different concepts and operating mechanism however with same objective of working principle of the car wiper. 
  
- The rain sensor was a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or even mud. 
+ The rain sensor is a highly versatile device for automatic wiping of vehicle windscreen when it is wet due to moisture, raindrops or even mud. 
  It worked by reflecting harmonious light beams within the windscreen. 
  When raindrops fall onto the windscreen, this harmony light is disturbed and creating a drop in the light beam intensity. 
  The system then activated the wipers to be operated in full automatic mode. 
@@ -31,18 +29,23 @@
 * LEDs
 * Resistors
 * Power Supply
+
+
 ## Advantages:
-* To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
+* Cost-effective
 * Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
-* As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed.
 * It is quite simple to use.
-* As a consequence, less energy is consumed.
-* Rain sensor-based systems are extremely simple to install.
+* less energy is consumed.
+* extremely simple to install.
 * Individual rain sensors are fairly inexpensive.
+
+
 ## Disadvantages:
 * When water falls squarely on the rain sensor, the mechanism activates.
-* The entire system cost rises when more components, including a rain sensor, are required.
+* The entire system cost rises when more components are required.
 * Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
+
+
 ## 4W's & 1H 
 ### WHAT
 The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
@@ -61,23 +64,21 @@ In general, car wipers are controlled by the stalk on the right side of the stee
 ### STRENGTH
 * Low Budget
 * Good Reputation
-* High Bargaining Power Supliers
+* Easy to use
 * Big Influence on the Market
 ### WEAKNESS
 * Structural Inertia
 * High Transaction Cost
-* No Focus on Private Sector
 * Week Focus on Process Innovations
 ## OPPORTUNITIES
 * Emerging New Markets
 * Technological Development
-* Demand for Saver Equipments
-* Technological Lock in of Product
+* Demand for Saving Equipments
 ## THREATS
 * Low Bargaining Power Buyers
 * Highly REgulated Industry
 * Ethical Pressure
-* Econimical Crisis
+* Economical Crisis
 ## Exploring STM32F407 Discovery Board
 STM32F407 BOARD 
 
