@@ -33,7 +33,6 @@
 
 ## Advantages:
 * Cost-effective
-* Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
 * It is quite simple to use.
 * less energy is consumed.
 * extremely simple to install.
