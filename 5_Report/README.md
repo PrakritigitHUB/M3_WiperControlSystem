@@ -68,14 +68,14 @@ In general, car wipers are controlled by the stalk on the right side of the stee
 ### WEAKNESS
 * Structural Inertia
 * High Transaction Cost
-* Week Focus on Process Innovations
+* Weak Focus on Process Innovations
 ## OPPORTUNITIES
 * Emerging New Markets
 * Technological Development
 * Demand for Saving Equipments
 ## THREATS
 * Low Bargaining Power Buyers
-* Highly REgulated Industry
+* Highly Regulated Industry
 * Ethical Pressure
 * Economical Crisis
 ## Exploring STM32F407 Discovery Board
