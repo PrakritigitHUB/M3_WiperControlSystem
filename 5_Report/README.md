@@ -45,19 +45,19 @@
 * Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
 
 
-## 4W's & 1H 
+# 4W's & 1H
 ### WHAT
-The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
+* The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
 ### WHY
-To keep the windscreen clean enough to give adequate view at all times.
+* To keep the windscreen clean enough to give adequate view at all times. 
 ### WHEN
-The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+* The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 ### WHO
-A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions.
+* A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions which is helpful for the drivers.
 ### HOW
-You can adjust the speed of the car wiper system according to the rainfall
+* You can adjust the speed of the car wiper system according to the rainfall.
 ### WHERE
-In general, car wipers are controlled by the stalk on the right side of the steering wheel.
+* In general, car wipers are controlled by the stalk on the right side of the steering wheel.
 
 ## SWOT ANALYSIS
 ### STRENGTH
@@ -117,7 +117,7 @@ STM32F407 BOARD
 |ID|DESCRIPTION|STATUS|
 |:--|:----------|:-----|
 |LLRQ1|Push Button|IMPLEMENTED|
-|LLRQ2|Red,Green,Blue Leds|IMPLEMENTED|
+|LLRQ2|Red,Green,Blue,Orange Leds|IMPLEMENTED|
 
 ## OUTPUT IMAGES
 ### user button and hold it for two seconds, ENGINE ON STATE
